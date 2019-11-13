@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "723599865864",
+    "firebase_url": "https://technote-19fde.firebaseio.com",
+    "project_id": "technote-19fde",
+    "storage_bucket": "technote-19fde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723599865864:android:9d9a2a5cc7c719aeb6f9bd",
+        "android_client_info": {
+          "package_name": "com.example.technote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723599865864-dtp1vtn6nbk73nbtlqrjbtba7orvvhc8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.technote",
+            "certificate_hash": "dff10057b262d0b59f61b8403f1c8b4253723977"
+          }
+        },
+        {
+          "client_id": "723599865864-l8cpko11ra2hqk0oqi5323v73hedo74t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqGpFA1Tp_z9yeJJ4DfZn9qsNML4V0ZIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723599865864-l8cpko11ra2hqk0oqi5323v73hedo74t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
